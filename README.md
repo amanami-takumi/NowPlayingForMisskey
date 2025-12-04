@@ -14,7 +14,7 @@
 1. `C:\Program Files (x86)\MusicBee\Plugins`に`./bin/Debug/`の3ファイルを入れてください
 2. 必要に応じて、Pluginsの中に、「NowPlayingForMisskey」というディレクトリを作成してその中に入れても良いです
 3. MusicBeeを再起動した後、編集→設定→プラグインで反映を確認してください
-4. ディレクトリ内に3ファイルを入れている場合は、設定の右上で手動追加をします
+4. ディレクトリを作成した方は、設定の右上で手動追加をします
 5. その後、プラグインの「構成」でインスタンス名とトークンを入力します
 
 ## 動作保証
@@ -42,6 +42,7 @@ https://misskey.seitendan.com/@takumin3211
 
 ## コードの出自について
 1. MusicBeeのプラグインサンプル
+2. 
 MusicBee API
 
 https://getmusicbee.com/forum/index.php?topic=1972.0
