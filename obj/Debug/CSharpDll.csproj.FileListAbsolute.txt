@@ -1,0 +1,7 @@
+C:\Users\enerc\Downloads\C# Source3.0\bin\Debug\mb_TestCSharpDll.dll.config
+C:\Users\enerc\Downloads\C# Source3.0\bin\Debug\mb_TestCSharpDll.dll
+C:\Users\enerc\Downloads\C# Source3.0\bin\Debug\mb_TestCSharpDll.pdb
+C:\Users\enerc\Downloads\C# Source3.0\obj\Debug\CSharpDll.csproj.AssemblyReference.cache
+C:\Users\enerc\Downloads\C# Source3.0\obj\Debug\CSharpDll.csproj.CoreCompileInputs.cache
+C:\Users\enerc\Downloads\C# Source3.0\obj\Debug\mb_TestCSharpDll.dll
+C:\Users\enerc\Downloads\C# Source3.0\obj\Debug\mb_TestCSharpDll.pdb
