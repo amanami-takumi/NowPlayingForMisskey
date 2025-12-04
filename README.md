@@ -45,8 +45,11 @@ https://misskey.seitendan.com/@takumin3211
 MusicBee API
 
 https://getmusicbee.com/forum/index.php?topic=1972.0
+
 2. プラグイン作成のサンプル記事
+
 MusicBeeプラグイン開発#1｜POEPOE
 
 https://note.com/ads02360/n/nda389e295ef8
+
 3. CodexCLI（GPT5.1-Codex）
