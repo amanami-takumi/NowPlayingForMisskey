@@ -42,7 +42,7 @@ https://misskey.seitendan.com/@takumin3211
 
 ## コードの出自について
 1. MusicBeeのプラグインサンプル
-2. 
+
 MusicBee API
 
 https://getmusicbee.com/forum/index.php?topic=1972.0
